@@ -31,7 +31,7 @@
       "id": "art_4",
       "title": "DougBrock x MKGM Collab Art",
       "description": "A vector fan art for DougBrock, a podcaster, and MKGM, a music producer. I placed both in one clean layout to show their collaboration and vibe.",
-      "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/Dougbrock%20x%20MKGM.png",
+      "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/Dougbrock_MKGM.png",
       "tags": ["fan-art", "vector-art", "collaboration", "music-art"],
       "createdDate": "2024-01-25",
       "style": "Collab Portrait"
@@ -40,7 +40,7 @@
       "id": "art_5",
       "title": "Polo Pi Fan Art",
       "description": "This vector art is for Polo Pi. I used bold contrast and simple shapes to reflect his attitude and style.",
-      "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/Polo%20pi%20Artwork.png",
+      "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/polo_pi_artwork.png",
       "tags": ["fan-art", "vector-art", "portrait", "music-artist"],
       "createdDate": "2024-02-01",
       "style": "Vector Portrait"
@@ -56,9 +56,9 @@
     },
     {
       "id": "art_7",
-      "title": "Kartell EM Portrait",
-      "description": "This vector fan art is for Kartell EM, a Filipino hip-hop collective. I used simple forms and smooth details to show their unity and street style.",
-      "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/kartell%20em.png",
+      "title": "Kartell'em Portrait",
+      "description": "This vector fan art is for Kartell'em, a Filipino hip-hop collective. I used simple forms and smooth details to show their unity and street style.",
+      "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/kartel_em.png",
       "tags": ["fan-art", "vector-art", "hip-hop", "collective"],
       "createdDate": "2024-02-10",
       "style": "Minimal Portrait"
@@ -67,7 +67,7 @@
       "id": "art_8",
       "title": "Shanti Dope Fan Art",
       "description": "A vector fan art for Shanti Dope, a Filipino rapper. I mixed calm and strong elements to match the mood of his music.",
-      "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/shanti%20doope.png",
+      "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/shanti_dope.png",
       "tags": ["fan-art", "vector-art", "illustration", "music-artist"],
       "createdDate": "2024-02-15",
       "style": "Atmospheric Portrait"
@@ -76,7 +76,7 @@
       "id": "art_9",
       "title": "Yah Wais & Gudds Duo Art",
       "description": "A duo fan art of Yah Wais and Gudds. I used active poses and balanced colors so both artists stand out.",
-      "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/yah%20wais%20%26%20gudds.png",
+      "image": "https://raw.githubusercontent.com/Ryderhxrzy/certificates/main/images/yah_wais_gudds.png",
       "tags": ["fan-art", "vector-art", "duo", "collaboration"],
       "createdDate": "2024-02-20",
       "style": "Duo Portrait"
