@@ -1,0 +1,94 @@
+{
+  "vector-art": [
+    {
+      "id": "art_1",
+      "title": "CLR Fan Art",
+      "description": "I made this vector art for CLR because he inspires my work. I used clean shapes and strong colors to match his style.",
+      "image": "clr_artist.png",
+      "tags": ["fan-art", "vector-art", "digital-illustration", "artist-tribute"],
+      "createdDate": "2024-01-10",
+      "style": "Vector Portrait"
+    },
+    {
+      "id": "art_2",
+      "title": "Lil Peep Tribute",
+      "description": "A vector fan art for Lil Peep. His music has a soft and emotional vibe, so I used simple shapes and calm colors to show that feeling.",
+      "image": "lil_peep_artist.png",
+      "tags": ["fan-art", "vector-art", "music-tribute", "portrait"],
+      "createdDate": "2024-01-15",
+      "style": "Music Artist Portrait"
+    },
+    {
+      "id": "art_3",
+      "title": "Waiian Fan Art",
+      "description": "This is a vector fan art of Waiian, a rapper and member of Kartell EM. I used smooth gradients and clean lines to show his strong presence and style.",
+      "image": "waiian_artist.png",
+      "tags": ["fan-art", "vector-art", "rapper", "kartell-em", "portrait"],
+      "createdDate": "2024-01-20",
+      "style": "Stylized Portrait"
+    },
+    {
+      "id": "art_4",
+      "title": "DougBrock x MKGM Collab Art",
+      "description": "A vector fan art for DougBrock, a podcaster, and MKGM, a music producer. I showed both of them in one clean layout to show their teamwork and creative vibe.",
+      "image": "Dougbrock x MKGM.png",
+      "tags": ["fan-art", "vector-art", "collaboration", "music-art"],
+      "createdDate": "2024-01-25",
+      "style": "Collab Portrait"
+    },
+    {
+      "id": "art_5",
+      "title": "Polo Pi Fan Art",
+      "description": "This vector art is for Polo Pi. I used bold contrast and simple shapes to reflect his attitude and unique style.",
+      "image": "Polo pi Artwork.png",
+      "tags": ["fan-art", "vector-art", "portrait", "music-artist"],
+      "createdDate": "2024-02-01",
+      "style": "Vector Portrait"
+    },
+    {
+      "id": "art_6",
+      "title": "Flowg Fan Art",
+      "description": "A fan art vector piece for Flowg. I used clean lines and bold colors to capture his personality and presence.",
+      "image": "flowg.png",
+      "tags": ["fan-art", "vector-art", "rapper", "portrait"],
+      "createdDate": "2024-02-05",
+      "style": "Bold Portrait"
+    },
+    {
+      "id": "art_7",
+      "title": "Kartell EM Portrait",
+      "description": "This vector fan art is for Kartell EM, a Filipino hip-hop group known for their raw street style. I used simple forms and smooth details to show their unity as a collective.",
+      "image": "kartell em.png",
+      "tags": ["fan-art", "vector-art", "hip-hop", "collective"],
+      "createdDate": "2024-02-10",
+      "style": "Minimal Portrait"
+    },
+    {
+      "id": "art_8",
+      "title": "Shanti Dope Fan Art",
+      "description": "A vector fan art for Shanti Dope. I mixed calm and strong elements to match the mood and rhythm of his music.",
+      "image": "shanti doope.png",
+      "tags": ["fan-art", "vector-art", "illustration", "music-artist"],
+      "createdDate": "2024-02-15",
+      "style": "Atmospheric Portrait"
+    },
+    {
+      "id": "art_9",
+      "title": "Yah Wais & Gudds Duo Art",
+      "description": "A duo fan art of Yah Wais and Gudds. I used balanced colors and dynamic posing so both artists stand out equally.",
+      "image": "yah wais & gudds.png",
+      "tags": ["fan-art", "vector-art", "duo", "collaboration"],
+      "createdDate": "2024-02-20",
+      "style": "Duo Portrait"
+    },
+    {
+      "id": "art_10",
+      "title": "Self Portrait Vector",
+      "description": "A self-portrait vector artwork showing my style as an artist. I made this to represent my growth and the artists who inspire me.",
+      "image": "me.png",
+      "tags": ["vector-art", "self-portrait", "portfolio", "artist"],
+      "createdDate": "2024-02-25",
+      "style": "Self Portrait"
+    }
+  ]
+}
